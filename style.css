@@ -1,0 +1,26 @@
+#full-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    position: relative;
+}
+
+#etch-a-sketch-board {
+    width: 18rem;
+    height: 14.5rem;
+    position: absolute;
+    top: 20px;
+    left: 90px;
+    display: grid;
+}
+
+#tv-image {
+    position: absolute;
+}
+
+#tv-and-etch-board-container {
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
